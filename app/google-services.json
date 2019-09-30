@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "143168809229",
+    "firebase_url": "https://grandpovar.firebaseio.com",
+    "project_id": "grandpovar",
+    "storage_bucket": "grandpovar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143168809229:android:e17ea7f2a79fd3c34aa844",
+        "android_client_info": {
+          "package_name": "com.example.grandpovar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143168809229-tv2j5iej8at00qsi9a2pgfrrm44kbj3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grandpovar",
+            "certificate_hash": "2e4069f4b864da81a9fb3e40627266c7514b30a1"
+          }
+        },
+        {
+          "client_id": "143168809229-7dcgqo0mvceilsvrhccrkfj9nh31dqdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUwTrE62P0XkCx24XqMKscy4R_Tbf6_ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143168809229-7dcgqo0mvceilsvrhccrkfj9nh31dqdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
